@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  justify-content: center;
+  text-align: center;
+  padding-top: 30px;
+}
+
+input {
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+button {
+  border-radius: 5px;
+}
+
+.disp {
+  border-radius: 5px;
+  width: 30%;
+  height: 300px;
+  overflow: hidden;
+  display: inline-block;
+  margin: 10px auto 0px auto;
+  border: 1px solid black;
+}
